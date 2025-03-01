@@ -2,4 +2,4 @@
 
 ## Introdução
 
-Template para Angular 19 e Electron 34
+Template para Electron 34 com Angular 19
